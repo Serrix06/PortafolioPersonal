@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base:'https://serrix06.github.io/PortafolioPersonal/'
+  base:'https://Serrix06.github.io/PortafolioPersonal/'
 })
